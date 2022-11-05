@@ -1,2 +1,2 @@
 # Variable-PWM
-A Prined Circuit Board designed and built by Peter Gutkovich.
+A Printed Circuit Board designed and built by Peter Gutkovich.
