@@ -11,7 +11,7 @@ This signal can be modified with potentiometers **VR1** and **VR2**. **VR1** cha
 ![Board Back](/Simulation/Board_Back.jpg)
 
 ## How To Use the Board
-**The board should be powered with a 9V Battery.** Use the **+** and **-** pins to power the board. Use the **OUT** pin for the output signal, and the **GND** pin for connecting to the *board's* ground. See **[this](/Simulation/)** video of the board in action. 
+**The board should be powered with a 9V Battery.** Use the **+** and **-** pins to power the board. Use the **OUT** pin for the output signal, and the **GND** pin for connecting to the *board's* ground. Click **[here](/Simulation/SimVideos.md)** to see this board in action. 
 
 
 ## Design and Parts
@@ -33,4 +33,4 @@ The schematic and board files can be found in **[the Hardware folder](/Hardware)
 - NPN Transistor @200mA/40V (Generic) **(x1)**
 - LED @3V (Generic) **(x1)**
 
-### **BASED ON SPARKFUN LIBRARIES -> [HERE](https://github.com/sparkfun/SparkFun-Eagle-Libraries)**
+### **SCHEMATIC BASED ON SPARKFUN LIBRARIES -> [HERE](https://github.com/sparkfun/SparkFun-Eagle-Libraries)**
