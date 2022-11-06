@@ -11,7 +11,7 @@ This signal can be modified with potentiometers **VR1** and **VR2**. **VR1** cha
 ![Board Back](/Simulation/Board_Back.jpg)
 
 ## How To Use the Board
-**The board should be powered with a 9V Battery.** Use the **+** and **-** pins to power the board. Use the **OUT** pin for the output signal, and the **GND** pin for connecting to the *board's* ground. Click **[here](/Simulation/SimVideos.md)** to see this board in action. 
+**The board should be powered with a 9V Battery.** Use the **+** and **-** pins to power the board. Use the **OUT** pin for the output signal, and the **GND** pin for connecting to the *board's* ground. Information on how to use the switch and potentiometers can be found **[here](https://github.com/PGgit08/Variable-PWM#how-it-works)**. Click **[here](/Simulation/SimVideos.md)** to see this board in action. 
 
 
 ## Design and Parts
