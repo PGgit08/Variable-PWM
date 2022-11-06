@@ -1,5 +1,5 @@
 # Variable-PWM
-## A Printed Circuit Board designed and built by Peter Gutkovich.
+A Printed Circuit Board designed and built by Peter Gutkovich.
 
 ## Description
 ### How It Works
