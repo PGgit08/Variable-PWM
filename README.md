@@ -16,7 +16,7 @@ This signal can be modified with potentiometers **VR1** and **VR2**. **VR1** cha
 
 ## Design and Parts
 ### Design Hardware
-The schematic and board files can be found in **[the Hardware folder](/Hardware)**. An image of the schematic can also be seen right **[here](/Hardware/Variable_PWM.pdf)**.
+The schematic and board files can be found in **[the Hardware folder](/Hardware)**. Gerber files for production are in **[this](/Production/Variable_PWM.zip)** zip folder. Also, an image of the schematic can also be seen right **[here](/Hardware/Variable_PWM.pdf)**.
 
 ### Parts Required
 - LM358P Dual Operational Amplifier DIP-8 **(x1)** -> [Amazon Link](https://www.amazon.com/gp/product/B07WQWPLSP/)
