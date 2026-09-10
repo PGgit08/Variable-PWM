@@ -1,5 +1,5 @@
 # Variable-PWM
-A printed circuit board designed that generates a PWM signal.
+A printed circuit board that generates a PWM signal.
 
 ## Description
 ### How It Works (and Specs)
